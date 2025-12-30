@@ -1,0 +1,9 @@
+# SQLite
+*.db-journal
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
